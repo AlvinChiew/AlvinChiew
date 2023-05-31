@@ -1,7 +1,7 @@
 ### Hi there! 
 Welcome to my knowledge bank where I keep codes from my self-learning journey.
 
-- 👋 I’m [**Alvin Chiew JJ**](alvinchiew.com)
+- 👋 I’m [**Alvin Chiew JJ**](https://alvinchiew.com)
 - 👨🏻‍💼 I'm a full time **senior data architect** in Malaysia
 - 👀 I’m interested in machine / deep learning, business intelligence, modeling & engineering, DevOps, cloud engineering
 - 🌱 I’m currently learning about ** end-to-end data solution architectural design and modeling **
