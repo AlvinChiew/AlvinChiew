@@ -3,7 +3,7 @@ Welcome to my knowledge bank where I keep codes from my self-learning journey.
 
 - 👋 I’m [**Alvin Chiew JJ**](https://alvinchiew.com)
 - 👨🏻‍💼 I'm a full time **senior data architect** in Malaysia
-- 👀 I’m interested in machine / deep learning, business intelligence, modeling & engineering, DevOps, cloud engineering
-- 🌱 I’m currently learning about **end-to-end data solution architectural design and modeling**
-- 💞️ I’m looking to collaborate on **data related stuff** or any kind of **startups / business idea**
-- 📫 You can reach me through my [LinkedIn](https://www.linkedin.com/in/alvinchiew) or [Gmail](alvinchiewdotcom@gmail.com). I'd love to know more about you too!
+- 👀 I’m interested in data, AI, software and IT infrastructure
+- 🌱 I’m currently learning about **Dart and Flutter**
+- 💞️ I’m looking for a partnership to actualize an **exceptional startups / business idea**
+- 📫 You can reach me through my [Website](https://alvinchiew.com), [LinkedIn](https://www.linkedin.com/in/alvinchiew) or [Gmail](alvinchiewdotcom@gmail.com). I'd love to know more about you too!
